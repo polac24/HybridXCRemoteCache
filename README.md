@@ -8,3 +8,5 @@ Call `./reproduce.sh` and see if the last build (which builds it locally) compil
 #### Expected behaviour
 
 There it/are `CompileC` output on a console
+
+Note: contains XCRC 0.3.13
